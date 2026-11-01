@@ -1,0 +1,2 @@
+-keep class com.abdestv.tv.** { *; }
+-keep class com.abdestv.core.** { *; }

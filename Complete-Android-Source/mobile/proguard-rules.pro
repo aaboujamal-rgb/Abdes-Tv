@@ -1,0 +1,2 @@
+-keep class com.abdestv.mobile.** { *; }
+-keep class com.abdestv.core.** { *; }

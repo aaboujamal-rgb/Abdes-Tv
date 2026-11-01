@@ -1,0 +1,2 @@
+-keep class com.abdestv.core.model.** { *; }
+-keep class com.abdestv.core.network.** { *; }
